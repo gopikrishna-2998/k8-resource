@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: roboshop # Replace with your desired namespace name
+  labels:
+    environment: development # Optional: Add labels for organization
+    project: roboshop # Optional: Add project label
